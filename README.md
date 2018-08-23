@@ -9,5 +9,5 @@
 
 Validaciones:
 Al eliminar un Cliente debe validar si tiene pedidos.
-implementar un ordersHttpClient y validar las excepciones
+Se implementa un microservicio "ordersHttpClient" y se valida las excepciones
 Al crear un pedido valida tambien la dirección.
